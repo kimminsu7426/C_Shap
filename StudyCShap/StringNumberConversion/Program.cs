@@ -26,7 +26,7 @@ namespace StringNumberConversion
             float h;
             if (float.TryParse(g, out h))
             {
-                Console.WriteLine($"h = {h}");
+                Console.WriteLine($"h={h}");
             }
             else
             {
