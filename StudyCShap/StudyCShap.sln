@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringNumberConversion", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumApp", "EnumApp\EnumApp.csproj", "{5FB2A5AD-A1E9-43DE-A112-4362F6BC71ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableApp", "NullableApp\NullableApp.csproj", "{FEF52CA6-CA87-48ED-839D-AC960FFF8B01}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{5FB2A5AD-A1E9-43DE-A112-4362F6BC71ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FB2A5AD-A1E9-43DE-A112-4362F6BC71ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FB2A5AD-A1E9-43DE-A112-4362F6BC71ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF52CA6-CA87-48ED-839D-AC960FFF8B01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF52CA6-CA87-48ED-839D-AC960FFF8B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF52CA6-CA87-48ED-839D-AC960FFF8B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF52CA6-CA87-48ED-839D-AC960FFF8B01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{FC909C5C-8944-47D1-8B7B-2B5A1D17635A} = {4457B943-2350-4E0C-ABAF-070AED877B13}
 		{C9AD40C2-1DCF-4E12-B7BB-8C0587D66DCC} = {4457B943-2350-4E0C-ABAF-070AED877B13}
 		{5FB2A5AD-A1E9-43DE-A112-4362F6BC71ED} = {4457B943-2350-4E0C-ABAF-070AED877B13}
+		{FEF52CA6-CA87-48ED-839D-AC960FFF8B01} = {4457B943-2350-4E0C-ABAF-070AED877B13}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {44AA6AAD-FDE5-4CF8-BFCC-7B46279105CD}
